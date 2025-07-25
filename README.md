@@ -1,3 +1,10 @@
+<!-- 
+
+repo link:
+https://github.com/degu0055/25S_CST8919_Lab_3 
+
+-->
+
 # Azure Policy Lab - MapleTech Solutions
 
 ## Summary
@@ -19,16 +26,14 @@ Then I assigned it to a resource group to enforce these rules.
 
 ## Test Results
 
-I tried to deploy some resources to check if the policies work:
-
 - Deploy VM in East US (not allowed)  
-  ![VM Deployment Denied](screenshots/1 - vm.png)
+  ![VM Deployment Denied](screenshots/1%20-%20vm.png)
 
 - Deploy Storage Account without ProjectName tag (not allowed)  
-  ![Storage Account Denied](screenshots/2 - storageaccount.png)
+  ![Storage Account Denied](screenshots/2%20-%20storageaccount.png)
 
 - Create Public IP address (not allowed)  
-  ![Public IP Denied](screenshots/3 - public ip address.png)
+  ![Public IP Denied](screenshots/3%20-%20public%20ip%20address.png)
 
 ## Challenges and Lessons Learned
 
