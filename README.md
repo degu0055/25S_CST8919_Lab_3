@@ -26,6 +26,9 @@ Then I assigned it to a resource group to enforce these rules.
 
 ## Test Results
 
+- Deploy VM in Canada Central with tag ✅ Allowed  
+  ![VM Deployment Allowed](screenshots/0-vm-allowed.png)
+
 - Deploy VM in East US (not allowed)  
   ![VM Deployment Denied](screenshots/1%20-%20vm.png)
 
@@ -45,5 +48,4 @@ Then I assigned it to a resource group to enforce these rules.
 
 ## Video Demo Link
 
-[Watch demo video here](YOUR_VIDEO_LINK_HERE)
-
+[Watch demo video here](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
