@@ -48,4 +48,4 @@ Then I assigned it to a resource group to enforce these rules.
 
 ## Video Demo Link
 
-[Watch demo video here](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[Watch demo video here](https://drive.google.com/file/d/1kxDkAfY7eWZaQWFo6dRnWVjJKO5uUXaj/view?usp=sharing)
